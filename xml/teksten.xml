@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <nieuws>
+    <title>We gaan beginnen!</title>
+    <content>De bezuinigingen gaan beginnen dus meld je aan en doe mee!</content>
+  </nieuws>
+  <fiets>
+    <content>De manier van reizen die het meest duurzaam is is logischerwijs met de fiets of lopend. Dit omdat je geen uitstoot krijgt omdat je geen fossiele of elektrische brandstof gebruikt. Daarnaast kan iedereen die regelmatig met de fiets naar het werk gaat mee doen aan het nationale fietsplan. Dit houd in dat je met veel korting een fiets kan kopen waardoor het fietsen naar je werk nog aantrekkelijker word. </content>
+      <content2>Kijk voor meer informatie over het fietsplan op
+      &lt;a href=&quot;http://www.nationalefietsplan.nl&quot;&gt; http://www.nationalefietsplan.nl&lt;/a&gt;
+    </content2>
+  </fiets>
+  <auto>
+    <content>De minst duurzame manier van reizen is alleen in de auto zitten. Dit komt omdat je dan in je eentje een uitstoot van 132 gr./km produceert. Dit kun je besparen door te gaan carpoolen waardoor je met 2, 3 of 4 mensen in de auto zit, hierdoor produceer je maar maar 1 keer de uitstoot van een auto in plaats van 4 keer. Echter kun je dit verminderen door een elektrische auto te nemen en hiermee te gaan reizen. Deze elektrische auto’s hebben nog wel een kleine uitstoot, dit komt omdat ze gebruik maken van elektriciteit en dit is ook niet 100% schoon, maar een stuk minder als een auto op benzine of diesel. De uitstoot van een elektrische auto is namelijk: 37 gr./km.</content>
+  </auto>
+  <OV>
+    <content>Door te reizen met het ov bespaar je uitstoot voor het milieu. Dit komt met name doordat je met veel mensen in hetzelfde vervoersmiddel zit. Dat vervoersmiddel levert hierdoor maar een keer de uitstoot. De uitstoot van bussen is gemiddeld 82 gr./km de tram kost 23 gr./km en de trein kost 28 gr./km. Hierdoor bespaar je heel wat in vergelijking met een auto(132 gr./km) dus op zichzelf levert het zelf in de trein zitten nog besparing op in vergelijking met in een auto zitten.</content>
+  </OV>
+  <carpoolen>
+    <content>Carpoolen is in vergelijking met de auto een stuk zuiniger. Hoe meer mensen er in dezelfde auto zitten hoe zuiniger dit is. Dit komt omdat je maar een keer de uitstoot levert van de auto en dit per persoon dus minder uitstoot zal zijn dan als je alleen in de auto zou zitten. Een auto gaat wel iets meer uitstoot geven als er meer mensen in de auto zitten, maar dit weegt niet op tegen een extra auto die anders zou moeten rijden. Er zijn natuurlijk nog wel manieren hoe je nog duurzamer kan rijden. De meest duurzame manier is met de fiets of lopend te gaan maar je kan natuurlijk ook met het ov reizen lees hier meer over op de pagina van het ov.</content>
+  </carpoolen>
+  <motor>
+    <title>Motor</title>
+    <content>Het reizen met de motor is na de auto het minst duurzaam. Dit komt door de gemiddelde uitstoot van 107 gr./km(auto heeft 132 gr./km). Echter met de motor is het minder makkelijk om te carpoolen dan om dat te doen met de auto. Opties om duurzamer te reizen zijn onder andere reizen met de fiets of het ov.</content>
+  </motor>
+  <motor>
+    <title>Scooter</title>
+    <content>De scooter is een stukje duurzamer dan de motor maar is nog niet erg duurzaam. De scooter heeft een uitstoot van 77 gr./km. Ook met de scooter is het niet makkelijk om te carpoolen in vergelijking met de auto. Opties om duurzamer te reizen zijn onder andere reizen met de fiets of het ov.</content>
+  </motor>
+</root>

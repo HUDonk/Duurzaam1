@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <motor>
+    <title>Motor</title>
+    <content>
+    Het reizen met de motor is na de auto het minst duurzaam. Dit komt door de gemiddelde uitstoot van 107 gr./km(auto heeft 132 gr./km). Echter met de motor is het minder makkelijk om te carpoolen dan om dat te doen met de auto. Opties om duurzamer te reizen zijn onder andere reizen met de fiets of het ov.</content>
+  </motor>
+  <motor>
+    <title>Scooter</title>
+    <content>De scooter is een stukje duurzamer dan de motor maar is nog niet erg duurzaam. De scooter heeft een uitstoot van 77 gr./km. Ook met de scooter is het niet makkelijk om te carpoolen in vergelijking met de auto. Opties om duurzamer te reizen zijn onder andere reizen met de fiets of het ov.</content>
+  </motor>
+</root>
